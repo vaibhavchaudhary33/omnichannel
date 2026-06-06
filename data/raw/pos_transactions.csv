@@ -1,0 +1,201 @@
+transaction_id,customer_email,customer_phone,customer_name,transaction_date,amount,payment_method,store_id,items_count,discount_applied
+POS-A4515AE0,joelthomas@example.org,,"Brewer, Susan",2024-11-23,241.26,card,STORE-03,5,0
+POS-61A66444,lauriemontgomery@example.net,2004711382,richard burch,22-01-2025,142.68,Cash,STORE-05,7,1
+POS-7092D401,perezantonio@example.com,,mark tate,2024-07-14,195.97,Cash,STORE-03,5,0
+POS-907276EA,,,Mark Tate,27 Oct 2024,82.04,contactless,STORE-02,3,1
+POS-18C180D2,heathchad@example.org,(303) 911-7182,Crystal Perez,2023-08-12,205.82,cash,STORE-04,5,yes
+POS-69FB0763,rebecca01@example.net,,Melissa Wagner,07 Sep 2023,61.02,card,STORE-05,8,0
+POS-0F9CA17B,barnesbrandy@example.net,,John Wheeler,"May 04, 2026",91.67,CARD,STORE-02,5,0
+POS-F7336094,ashleymorales@example.org,9533942104,michael white,12/13/2025,70.88,contactless,STORE-04,6,yes
+POS-929D674D,maguirre@example.org,,Barbara Sanchez,"January 12, 2025",177.15,Cash,STORE-01,8,N
+POS-6511E61A,elizabeth65@example.net,4821759464,"Willis, Angela",2026-01-27,20.95,card,STORE-02,4,yes
+POS-923B7820,rebecca01@example.net,+15009788208,"Wagner, Melissa","February 19, 2026",259.41,card,STORE-01,8,yes
+POS-FB95D0FC,grahamsteve@example.org,,charles hensley,02/16/2026,233.19,Cash,STORE-02,8,
+POS-72F444AB,lynchgeorge@example.net,3103413164,Joseph Zuniga,04/15/2025,118.08,cash,STORE-05,4,0
+POS-363E6EF4,stephen10@example.com,8108013267,RANDY POWERS,2023-12-12,6.22,card,STORE-02,6,yes
+POS-140FF589,icox@example.net,,"Patterson, Julie",2025-11-08,248.03,contactless,STORE-03,8,0
+POS-D2938E6E,ericolson@example.org,436-713-6959,LARRY GARCIA,"May 24, 2026",298.86,CARD,STORE-03,4,N
+POS-51DB1A37,prestonjulia@example.org,,"Taylor, Sheila",2025-04-23,221.55,Cash,STORE-05,3,Y
+POS-16476E3F,stephen10@example.com,8108013267,Randy Powers,2026-02-28,180.21,cash,STORE-01,1,Y
+POS-DB4BB8EB,wwebster@example.net,+15064317139,Stephanie Burton,2024-08-04,50.17,cash,STORE-03,7,0
+POS-032A461A,perezantonio@example.com,,"Tate, Mark","April 03, 2024",250.04,cash,STORE-05,2,yes
+POS-C81C8D31,pwilkerson@example.com,+13276483503,Leonard Rios,2025-10-15,292.07,contactless,STORE-04,5,N
+POS-910C4CB7,jasongallagher@example.org,,helen peterson,"September 07, 2024",5.81,cash,STORE-01,8,N
+POS-19A6F80E,,3103413164,Joseph Zuniga,"March 11, 2025",139.74,contactless,STORE-03,8,Y
+POS-C926A021,perezantonio@example.com,,Mark Tate,03/15/2026,130.67,cash,STORE-01,1,Y
+POS-E0BDA1EE,icox@example.net,,julie patterson,04/14/2024,221.26,contactless,STORE-03,3,Y
+POS-92701D60,prestonjulia@example.org,,Sheila Taylor,29 Aug 2024,240.97,card,STORE-01,3,0
+POS-67294D3C,smiller@example.net,235-116-1559,Jessica Herrera,04/03/2025,134.26,Cash,STORE-04,6,1
+POS-66D71D97,jennifermiles@example.com,,Jesse Guzman,11/10/2023,23.68,contactless,STORE-01,4,0
+POS-B0C58278,brianromero@example.org,(667) 010-6513,"Farrell, Wesley","July 18, 2023",200.21,card,STORE-04,6,0
+POS-44C1F1B5,joelthomas@example.org,1-405-377-3515,Susan Brewer,21 Feb 2024,8.44,card,STORE-05,8,
+POS-CB2CC805,,3792374740,"Scott, Larry",02/13/2026,291.19,cash,STORE-05,4,1
+POS-DBB54645,lauriemontgomery@example.net,,Richard Burch,03 May 2024,137.19,CARD,STORE-04,6,Y
+POS-3A5B6AC5,gloriawells@example.org,3792374740,LARRY SCOTT,2025-07-08,31.81,Cash,STORE-05,5,1
+POS-C626E38F,ashleymorales@example.org,9533942104,Michael White,10/31/2023,245.89,CARD,STORE-03,8,0
+POS-9ADFE981,julie35@example.org,,richard miller,27-11-2025,105.7,contactless,STORE-05,6,0
+POS-E9D6BB7E,perezantonio@example.com,,Mark Tate,2025-05-13,125.72,contactless,STORE-05,4,N
+POS-84396FC0,pwilkerson@example.com,+13276483503,"Rios, Leonard",25 Nov 2025,104.69,CARD,STORE-01,2,
+POS-CA9F1D59,bobbydiaz@example.org,,"Hernandez, Brandi",11 Jan 2026,152.15,Cash,STORE-01,7,
+POS-67443FB8,ctucker@example.com,+18588424745,Christopher Ramos,27 Nov 2023,56.23,card,STORE-01,7,0
+POS-9194821E,brandon69@example.org,712-368-5160,Brittany Rose,"November 01, 2023",275.19,card,STORE-03,7,yes
+POS-3362D476,ramosmichelle@example.net,,Joshua Wright,07 Jul 2023,156.13,Cash,STORE-03,4,N
+POS-0CF173F9,josephbrennan@example.com,482-814-8932,DAVID ALVAREZ,"December 09, 2025",214.57,card,STORE-05,6,0
+POS-5E4C4FD1,pwilkerson@example.com,+13276483503,Leonard Rios,08-03-2026,203.9,Cash,STORE-03,7,
+POS-EC4E8CBB,john21@example.net,1043321819,"Johnson, Danielle","November 24, 2025",21.7,contactless,STORE-02,5,0
+POS-7D2120AD,maguirre@example.org,,"Sanchez, Barbara",10/19/2023,227.31,cash,STORE-03,8,Y
+POS-797E3984,lburgess@example.org,8175496513,keith wilson,"March 18, 2025",236.37,contactless,STORE-01,7,no
+POS-D6707A21,rebecca01@example.net,,melissa wagner,10-03-2025,261.31,CARD,STORE-02,6,
+POS-1723ECDB,ctucker@example.com,,CHRISTOPHER RAMOS,"February 10, 2026",137.4,cash,STORE-02,3,0
+POS-DA9408C0,elizabeth65@example.net,4821759464,ANGELA WILLIS,2024-04-13,177.28,contactless,STORE-01,6,no
+POS-38AA76DF,dcarlson@example.net,1-724-238-8496,"Brown, Robert",2025-02-22,280.05,Cash,STORE-03,8,
+POS-A6CE6D7A,jennifer99@example.org,(095) 214-5623,shawn moore,"May 15, 2025",59.24,cash,STORE-05,3,no
+POS-F796611F,lynchdiane@example.net,(406) 409-0974,Lindsay Bruce,"August 27, 2024",102.66,contactless,STORE-02,8,1
+POS-21DF5609,lauriemontgomery@example.net,2004711382,"Burch, Richard",2025-09-24,194.47,Cash,STORE-02,1,0
+POS-3948FE22,smoore@example.org,997-376-3116,Heather Cross,15 May 2025,88.43,Cash,STORE-03,8,no
+POS-B676291D,jasongallagher@example.org,,Helen Peterson,08-03-2024,54.38,Cash,STORE-05,1,0
+POS-E53E5F4C,wyattmichelle@example.com,1-078-161-8495,Jeremy Roberts,04/30/2026,35.66,Cash,STORE-04,2,0
+POS-37DC8C78,,1-405-377-3515,"Brewer, Susan",07/22/2024,26.61,card,STORE-03,2,1
+POS-9FA4A627,omartinez@example.org,288-095-7015,nathaniel lam,29-10-2024,119.9,cash,STORE-05,1,0
+POS-FFDA9A93,lburgess@example.org,8175496513,KEITH WILSON,2024-08-14,278.77,cash,STORE-03,5,1
+POS-8FBBA749,lynchgeorge@example.net,3103413164,Joseph Zuniga,31-05-2025,144.83,Cash,STORE-02,3,0
+POS-AF35B30B,prestonjulia@example.org,,"Taylor, Sheila","May 15, 2025",266.66,contactless,STORE-01,3,Y
+POS-46C79B36,jasongallagher@example.org,863-794-0265,HELEN PETERSON,2023-10-02,66.97,contactless,STORE-02,7,0
+POS-A7F77451,elizabeth65@example.net,,ANGELA WILLIS,05/08/2025,58.5,Cash,STORE-01,8,0
+POS-30385DD7,ashleymorales@example.org,,"White, Michael",2025-07-24,219.05,CARD,STORE-03,6,N
+POS-0E88C8EC,julie35@example.org,7586926179,richard miller,11/17/2023,137.94,Cash,STORE-03,3,1
+POS-6772FE9F,jennifer99@example.org,(095) 214-5623,"Moore, Shawn",04-11-2025,97.4,card,STORE-04,5,
+POS-06843C86,stephen10@example.com,8108013267,Randy Powers,05/29/2025,233.56,CARD,STORE-05,2,N
+POS-E82B5B36,,2004711382,Richard Burch,"May 24, 2025",62.95,cash,STORE-01,1,
+POS-95410A9D,elizabeth65@example.net,4821759464,angela willis,2024-09-06,15.81,contactless,STORE-05,8,0
+POS-57D9CBB0,dcarlson@example.net,1-724-238-8496,Robert Brown,21-07-2025,44.49,Cash,STORE-05,2,no
+POS-A36884F5,,,Randy Powers,"August 10, 2025",206.83,Cash,STORE-02,8,N
+POS-5BC677CA,ericfarmer@example.net,1-269-166-9784,Monica Evans,"October 13, 2025",147.63,contactless,STORE-01,4,
+POS-A8596F8C,,3792374740,"Scott, Larry",12/13/2024,66.0,contactless,STORE-04,8,no
+POS-7885187D,jasongallagher@example.org,863-794-0265,Helen Peterson,2026-01-21,249.75,contactless,STORE-05,3,no
+POS-8F1CB2CC,lauriemontgomery@example.net,2004711382,Richard Burch,24 Oct 2023,116.02,card,STORE-05,7,yes
+POS-E64B9B37,barnesbrandy@example.net,3872624731,"Wheeler, John",19 Sep 2025,265.2,CARD,STORE-02,4,Y
+POS-392C04DA,elizabeth65@example.net,,Angela Willis,07-06-2024,39.91,card,STORE-04,6,0
+POS-E3082DDC,pwilkerson@example.com,+13276483503,Leonard Rios,29 Aug 2025,126.22,card,STORE-01,3,1
+POS-76B90436,ctucker@example.com,+18588424745,CHRISTOPHER RAMOS,06/03/2024,54.07,card,STORE-05,7,1
+POS-A267D32F,jennifer99@example.org,(095) 214-5623,Shawn Moore,2025-12-24,68.9,Cash,STORE-04,8,N
+POS-78E36397,omartinez@example.org,288-095-7015,NATHANIEL LAM,06 Mar 2025,199.6,contactless,STORE-02,6,no
+POS-AE423568,,712-368-5160,"Rose, Brittany","February 04, 2026",9.89,Cash,STORE-05,7,
+POS-DEEFF82A,,1-724-238-8496,ROBERT BROWN,"July 28, 2024",236.24,Cash,STORE-01,2,no
+POS-57B936B0,julie35@example.org,7586926179,"Miller, Richard",12/28/2025,281.63,CARD,STORE-05,7,yes
+POS-FC950BBA,jasongallagher@example.org,863-794-0265,Helen Peterson,"August 27, 2024",108.4,Cash,STORE-01,7,N
+POS-2E2BDC6C,maguirre@example.org,,"Sanchez, Barbara",19 Oct 2024,181.5,Cash,STORE-04,5,N
+POS-FC9476B1,john21@example.net,,"Johnson, Danielle",2025-10-06,198.09,contactless,STORE-04,6,Y
+POS-73B9C2AC,dcarlson@example.net,1-724-238-8496,Robert Brown,16 Dec 2023,112.87,contactless,STORE-04,4,no
+POS-938703C9,ashleymorales@example.org,9533942104,michael white,"March 31, 2024",95.46,contactless,STORE-04,3,
+POS-C79DDB62,julie35@example.org,7586926179,RICHARD MILLER,2025-09-20,68.27,CARD,STORE-03,1,N
+POS-6DEDCBA5,mikemoore@example.net,3602606474,Sarah Ibarra,2023-09-10,31.0,contactless,STORE-02,6,Y
+POS-0131FF3B,brandon69@example.org,712-368-5160,Brittany Rose,2024-08-21,89.51,Cash,STORE-01,3,0
+POS-F337B261,,3792374740,Larry Scott,17 Jul 2023,62.45,Cash,STORE-05,4,1
+POS-87F1D48C,ryan70@example.net,,KAYLA PETERSON,2023-06-21,86.4,CARD,STORE-03,7,no
+POS-BBCD6C18,ctucker@example.com,+18588424745,"Ramos, Christopher",12/31/2023,31.6,contactless,STORE-05,6,yes
+POS-4FE54745,brownjessica@example.org,,Brian Valdez,03/04/2024,82.03,CARD,STORE-05,2,1
+POS-4E5D8F12,wyattmichelle@example.com,1-078-161-8495,Jeremy Roberts,"October 25, 2023",263.45,Cash,STORE-03,8,no
+POS-F2CE7EEB,jennifer99@example.org,(095) 214-5623,Shawn Moore,06 Dec 2023,140.91,Cash,STORE-01,8,Y
+POS-862C92FD,maguirre@example.org,,"Sanchez, Barbara",2024-04-19,211.85,contactless,STORE-04,6,1
+POS-2240063B,lynchdiane@example.net,(406) 409-0974,"Bruce, Lindsay",2024-06-10,122.68,contactless,STORE-01,3,no
+POS-C0079336,smoore@example.org,997-376-3116,"Cross, Heather",15-06-2024,225.12,card,STORE-04,4,N
+POS-CFDFC6F9,heathchad@example.org,,"Perez, Crystal",29-12-2023,187.49,card,STORE-01,2,Y
+POS-FC21109B,joelthomas@example.org,1-405-377-3515,SUSAN BREWER,21 Aug 2024,147.28,Cash,STORE-03,8,1
+POS-812FAA38,brownjessica@example.org,465-787-1331,brian valdez,27 Oct 2023,226.3,card,STORE-01,7,no
+POS-CAC8D87E,lynchdiane@example.net,(406) 409-0974,LINDSAY BRUCE,2023-12-08,293.07,Cash,STORE-04,6,0
+POS-C5709E30,john21@example.net,1043321819,"Johnson, Danielle",2023-07-16,111.67,contactless,STORE-02,5,N
+POS-0C472187,brownjessica@example.org,465-787-1331,"Valdez, Brian",12 Jan 2025,130.06,CARD,STORE-03,6,
+POS-0C5921F8,prestonjulia@example.org,,Sheila Taylor,31-05-2025,245.19,contactless,STORE-02,7,
+POS-1FA3ED1F,mikemoore@example.net,3602606474,"Ibarra, Sarah",06/30/2025,242.67,card,STORE-04,8,N
+POS-349B5089,grahamsteve@example.org,+10985931746,charles hensley,"January 25, 2025",258.26,cash,STORE-04,2,0
+POS-6BBE3B5A,ryan70@example.net,,KAYLA PETERSON,2025-07-06,224.66,contactless,STORE-03,6,1
+POS-9F6FACC1,ashleymorales@example.org,9533942104,Michael White,31-05-2025,183.64,Cash,STORE-05,3,
+POS-E60C1638,ramosmichelle@example.net,+10983930103,Joshua Wright,30-03-2025,28.13,Cash,STORE-03,8,0
+POS-485F7888,dcarlson@example.net,1-724-238-8496,Robert Brown,09/28/2023,124.41,cash,STORE-01,3,yes
+POS-9BE78AEC,omartinez@example.org,288-095-7015,"Lam, Nathaniel",08-10-2023,195.17,contactless,STORE-04,6,0
+POS-F91E5FCD,ctucker@example.com,+18588424745,"Ramos, Christopher","January 10, 2024",11.81,card,STORE-03,2,N
+POS-290E3E89,ryan70@example.net,,Kayla Peterson,13 Jan 2024,12.78,CARD,STORE-05,2,Y
+POS-B02E21AA,maguirre@example.org,,barbara sanchez,"July 19, 2023",77.98,contactless,STORE-04,3,N
+POS-03438B64,,436-713-6959,larry garcia,03/24/2026,145.47,Cash,STORE-03,8,N
+POS-92FBACF6,wwebster@example.net,+15064317139,Stephanie Burton,"June 11, 2025",171.38,Cash,STORE-05,5,yes
+POS-C78F07CF,russellbeasley@example.com,,Debra Mack,"June 08, 2025",50.94,cash,STORE-01,3,yes
+POS-E79F9F3D,ramosmichelle@example.net,+10983930103,Joshua Wright,17 Dec 2024,93.39,CARD,STORE-03,4,
+POS-FA2FBD74,john21@example.net,1043321819,danielle johnson,"March 12, 2024",53.16,CARD,STORE-04,4,yes
+POS-D02C75F9,lynchgeorge@example.net,3103413164,Joseph Zuniga,25 Apr 2024,209.71,contactless,STORE-03,5,no
+POS-5C370739,john39@example.org,+10184514627,Natasha Decker,2023-12-14,85.28,Cash,STORE-04,4,yes
+POS-1DABB10A,,,"Guzman, Jesse",10/31/2025,35.17,contactless,STORE-02,8,0
+POS-0279E2AB,,,"Johnson, Danielle",09/18/2023,128.97,CARD,STORE-03,8,0
+POS-54231DBE,,863-794-0265,"Peterson, Helen",25-12-2025,83.62,CARD,STORE-01,8,N
+POS-44AFECB7,john39@example.org,+10184514627,"Decker, Natasha",01-07-2024,231.6,card,STORE-04,8,N
+POS-57BCAD3A,jasongallagher@example.org,863-794-0265,Helen Peterson,01/23/2026,144.48,contactless,STORE-03,3,0
+POS-74DFB83F,jasongallagher@example.org,863-794-0265,HELEN PETERSON,"December 23, 2023",266.82,card,STORE-01,4,0
+POS-7A6E43D0,,1-219-136-1939,dana green,29-03-2024,76.71,cash,STORE-05,8,0
+POS-2AB202C2,brandon69@example.org,,"Rose, Brittany",10/29/2025,31.96,Cash,STORE-03,1,Y
+POS-FB481DED,barnesbrandy@example.net,3872624731,"Wheeler, John",10/07/2023,73.64,Cash,STORE-03,8,0
+POS-E9462820,john39@example.org,+10184514627,"Decker, Natasha",2026-04-03,270.11,CARD,STORE-04,5,1
+POS-702B7014,wwebster@example.net,,Stephanie Burton,14 Mar 2025,86.22,Cash,STORE-05,3,Y
+POS-9C81FC46,ericolson@example.org,436-713-6959,Larry Garcia,12/21/2023,233.9,Cash,STORE-04,3,Y
+POS-BA2EEEB3,lburgess@example.org,,Keith Wilson,07-07-2023,163.99,CARD,STORE-02,8,
+POS-7CF59D5F,ashleymorales@example.org,9533942104,MICHAEL WHITE,05/07/2026,159.34,cash,STORE-01,3,N
+POS-1036CA81,jasongallagher@example.org,,"Peterson, Helen",10/07/2023,194.32,CARD,STORE-04,5,Y
+POS-DE4B061E,stephen10@example.com,,randy powers,03/18/2024,149.96,cash,STORE-04,1,yes
+POS-B9493906,ashleymorales@example.org,9533942104,"White, Michael",18 Jun 2025,187.0,Cash,STORE-01,2,
+POS-DF865633,kbarrera@example.com,,"Lewis, Todd",2025-02-14,218.93,Cash,STORE-04,4,N
+POS-9E44E98C,ericolson@example.org,436-713-6959,Larry Garcia,06/10/2024,225.1,Cash,STORE-03,8,0
+POS-7B5FBE41,julie35@example.org,,"Miller, Richard",18 Sep 2023,123.46,contactless,STORE-02,8,yes
+POS-260E37CC,smoore@example.org,997-376-3116,Heather Cross,"June 18, 2024",132.02,contactless,STORE-05,4,1
+POS-9CE7EED1,lynchdiane@example.net,(406) 409-0974,lindsay bruce,12/11/2025,138.46,CARD,STORE-01,1,yes
+POS-816CE054,brandon69@example.org,712-368-5160,brittany rose,2023-08-04,70.46,contactless,STORE-01,5,1
+POS-2A57E880,elizabeth65@example.net,4821759464,"Willis, Angela","December 22, 2025",140.81,card,STORE-02,5,yes
+POS-54B58635,ctucker@example.com,+18588424745,"Ramos, Christopher",08/27/2023,122.94,card,STORE-01,6,
+POS-8CED4707,russellbeasley@example.com,1-386-922-2196,Debra Mack,05/04/2026,33.13,contactless,STORE-01,7,Y
+POS-142E3DF0,smiller@example.net,235-116-1559,Jessica Herrera,11-05-2025,261.59,card,STORE-05,1,0
+POS-1688782F,,+10985931746,Charles Hensley,21 Oct 2024,101.42,card,STORE-02,1,0
+POS-FB0D3CDA,prestonjulia@example.org,,"Taylor, Sheila",30 Dec 2025,132.42,CARD,STORE-02,3,yes
+POS-6747D24A,lynchgeorge@example.net,,JOSEPH ZUNIGA,02 Dec 2024,153.04,card,STORE-02,8,1
+POS-D36EC1BD,john39@example.org,+10184514627,Natasha Decker,30 Aug 2024,159.65,card,STORE-01,5,
+POS-A335B2C8,barnold@example.net,1-219-136-1939,"Green, Dana",13-09-2023,127.01,contactless,STORE-03,4,yes
+POS-A7939A2E,barnesbrandy@example.net,3872624731,"Wheeler, John","May 04, 2024",108.17,CARD,STORE-05,3,no
+POS-D34794CC,jasongallagher@example.org,863-794-0265,Helen Peterson,06/10/2025,38.15,cash,STORE-02,3,
+POS-54FC286F,ramosmichelle@example.net,+10983930103,Joshua Wright,2023-08-04,102.9,Cash,STORE-02,4,1
+POS-B776E729,ericolson@example.org,436-713-6959,Larry Garcia,08-02-2025,202.14,CARD,STORE-05,1,yes
+POS-18F1A1E4,ryan70@example.net,,KAYLA PETERSON,2025-05-26,198.15,cash,STORE-01,7,0
+POS-5AEA6352,brownjessica@example.org,,Brian Valdez,15-09-2025,73.19,CARD,STORE-05,2,yes
+POS-8C357321,gloriawells@example.org,,Larry Scott,"December 01, 2025",278.27,cash,STORE-01,4,1
+POS-E599BD3C,kbarrera@example.com,,"Lewis, Todd",29-12-2024,206.87,contactless,STORE-03,4,1
+POS-BE153187,brownjessica@example.org,465-787-1331,Brian Valdez,2023-12-02,13.69,Cash,STORE-03,4,N
+POS-3227E8D8,brianromero@example.org,,Wesley Farrell,04 Aug 2025,185.67,card,STORE-04,4,1
+POS-3730DFBA,dcarlson@example.net,1-724-238-8496,Robert Brown,28 Dec 2023,65.99,card,STORE-05,4,
+POS-5682D038,icox@example.net,,Julie Patterson,18-10-2024,273.16,card,STORE-05,3,yes
+POS-A21C0C06,wyattmichelle@example.com,1-078-161-8495,"Roberts, Jeremy","October 02, 2023",252.66,card,STORE-01,6,no
+POS-E44A0371,rebecca01@example.net,+15009788208,Melissa Wagner,09-12-2025,85.77,card,STORE-01,3,N
+POS-811317A8,jennifermiles@example.com,,Jesse Guzman,"October 11, 2024",73.12,cash,STORE-03,2,0
+POS-BC788423,russellbeasley@example.com,1-386-922-2196,debra mack,10/31/2023,256.38,CARD,STORE-04,3,N
+POS-95CA788D,,+10184514627,"Decker, Natasha",07/29/2023,84.61,CARD,STORE-02,4,
+POS-E901A768,josephbrennan@example.com,482-814-8932,David Alvarez,2024-11-16,207.92,CARD,STORE-02,7,no
+POS-D0B3D752,jasongallagher@example.org,863-794-0265,Helen Peterson,"December 17, 2023",224.03,Cash,STORE-05,1,1
+POS-9B2D5A2A,perezantonio@example.com,,mark tate,24 Oct 2023,163.67,cash,STORE-05,7,1
+POS-6B2D9CCC,grahamsteve@example.org,+10985931746,Charles Hensley,2026-01-28,89.34,card,STORE-04,5,1
+POS-3F8C93D4,smiller@example.net,235-116-1559,JESSICA HERRERA,"May 14, 2026",152.69,card,STORE-05,3,no
+POS-4B4EF503,rebecca01@example.net,,Melissa Wagner,31-03-2024,64.57,CARD,STORE-01,5,yes
+POS-9A3F0AD1,wwebster@example.net,,"Burton, Stephanie",10/14/2024,137.57,contactless,STORE-01,7,0
+POS-D7D3B9D9,elizabeth65@example.net,4821759464,Angela Willis,"July 12, 2025",274.11,Cash,STORE-02,3,
+POS-BCA0258E,dcarlson@example.net,,Robert Brown,07/13/2025,288.49,contactless,STORE-02,2,N
+POS-35AFBB2D,john39@example.org,+10184514627,Natasha Decker,2026-03-27,165.33,cash,STORE-05,8,N
+POS-EBD33927,josephbrennan@example.com,482-814-8932,David Alvarez,"April 20, 2025",6.94,Cash,STORE-03,4,Y
+POS-F9A55CF2,,1-269-166-9784,"Evans, Monica",06/11/2025,14.57,Cash,STORE-05,5,yes
+POS-A30A6658,lynchgeorge@example.net,3103413164,"Zuniga, Joseph",2026-04-21,88.89,Cash,STORE-05,3,no
+POS-8FF19886,ctucker@example.com,,"Ramos, Christopher",24-05-2024,113.73,CARD,STORE-01,7,
+POS-B5CAA993,ashleymorales@example.org,,michael white,2024-11-13,160.48,Cash,STORE-02,4,1
+POS-88ADDAB1,smiller@example.net,235-116-1559,JESSICA HERRERA,2024-09-05,218.6,Cash,STORE-03,7,1
+POS-0344EDB3,smoore@example.org,997-376-3116,HEATHER CROSS,14-04-2024,170.98,Cash,STORE-04,8,
+POS-0D95AAF5,ericfarmer@example.net,1-269-166-9784,"Evans, Monica","December 29, 2024",39.87,CARD,STORE-01,4,
+POS-C918A346,lburgess@example.org,8175496513,Keith Wilson,09 Jun 2025,8.33,card,STORE-03,5,
+POS-257C54BC,wyattmichelle@example.com,1-078-161-8495,JEREMY ROBERTS,29-11-2023,103.32,CARD,STORE-05,1,
+POS-34396729,ericfarmer@example.net,1-269-166-9784,Monica Evans,12/11/2025,240.19,card,STORE-04,3,0
+POS-73DD3BC6,vdickson@example.org,5346247510,Kimberly Henson,"September 08, 2025",21.53,Cash,STORE-03,6,1
+POS-8FD7B1A1,lynchdiane@example.net,(406) 409-0974,Lindsay Bruce,2023-09-26,109.31,card,STORE-03,1,yes
+POS-638E1388,mikemoore@example.net,3602606474,Sarah Ibarra,"January 08, 2026",260.06,contactless,STORE-03,1,yes
+POS-B2357A3C,rebecca01@example.net,,Melissa Wagner,2024-02-21,68.76,contactless,STORE-02,2,yes
+POS-61AF663C,jasongallagher@example.org,863-794-0265,"Peterson, Helen",04/16/2024,147.39,Cash,STORE-02,4,yes
