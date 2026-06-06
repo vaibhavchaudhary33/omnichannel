@@ -14,6 +14,20 @@ def load_data():
     return {"members": []}
 
 
+@app.route("/")
+def index():
+    return jsonify({
+        "service": "loyalty-mock",
+        "status": "ok",
+        "version": "v1",
+        "endpoints": [
+            "/api/v1/members",
+            "/api/v1/members/<member_id>",
+            "/health"
+        ]
+    })
+
+
 @app.route("/api/v1/members")
 def members():
     data    = load_data()

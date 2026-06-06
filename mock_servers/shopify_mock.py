@@ -15,6 +15,20 @@ def load_data():
     return {"customers": [], "orders": []}
 
 
+@app.route("/")
+def index():
+    return jsonify({
+        "service": "shopify-mock",
+        "status": "ok",
+        "version": "2024-01",
+        "endpoints": [
+            "/admin/api/2024-01/customers.json",
+            "/admin/api/2024-01/orders.json",
+            "/health"
+        ]
+    })
+
+
 @app.route("/admin/api/2024-01/customers.json")
 def customers():
     data      = load_data()
