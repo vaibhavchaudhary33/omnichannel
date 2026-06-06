@@ -1,8 +1,3 @@
-"""
-mock_servers/shopify_mock.py
-Simulates a Shopify REST API with paginated /customers and /orders endpoints.
-Run:  python mock_servers/shopify_mock.py
-"""
 import json
 import random
 from pathlib import Path

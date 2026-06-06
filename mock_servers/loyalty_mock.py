@@ -1,8 +1,3 @@
-"""
-mock_servers/loyalty_mock.py
-Simulates a Loyalty Program REST API.
-Run:  python mock_servers/loyalty_mock.py
-"""
 import json
 from pathlib import Path
 from flask import Flask, jsonify, request
